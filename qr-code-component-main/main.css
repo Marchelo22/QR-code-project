@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrapp {
+    width: 800px;
+    height: 1440px;
+    font-size: 11px; text-align: center; 
+    background-color: hsl(212, 45%, 89%);
+    margin: 0 auto;
+}
+.wrapp a{
+    color: hsl(223, 63%, 44%); 
+}
+#whiteContainer{
+    background-color: white;
+    width: 300px;
+    height: 420px;
+    border: 1px solid hsl(212, 45%, 89%);
+    border-radius: 20px;
+    margin-top: 100px;
+    margin-left: 250px;
+}
+#blueContainer img{
+    border: 1px solid hsl(223, 63%, 44%);
+    border-radius: 10px;
+    margin: 10px;
+}
+#boldedText{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400 700;
+    color: hsl(218, 44%, 22%);
+}
+#simpleText{
+    margin: 10px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+    color: hsl(220, 15%, 55%);
+}
